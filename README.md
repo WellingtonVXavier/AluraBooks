@@ -1,2 +1,2 @@
 # AluraBooks
- curso alura para resposividade com Mobile-first
+ curso alura para responsividade com Mobile-first
